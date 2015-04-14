@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceleratedBy:" : "jigyasa 4/14/2015 19:38",
+		"applyForceOf:" : "jigyasa 4/14/2015 19:35",
+		"initialize" : "jigyasa 4/14/2015 19:31",
+		"mass" : "jigyasa 4/14/2015 19:30",
+		"mass:" : "jigyasa 4/14/2015 19:30",
+		"open" : "jigyasa 4/14/2015 19:28",
+		"reset" : "jigyasa 4/14/2015 19:31",
+		"step" : "jigyasa 4/14/2015 19:43",
+		"stepTime" : "jigyasa 4/14/2015 19:29",
+		"velocity" : "jigyasa 4/14/2015 19:41",
+		"velocity:" : "jigyasa 4/14/2015 19:29" } }
