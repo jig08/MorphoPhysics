@@ -2,14 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"acceleratedBy:" : "jigyasa 4/14/2015 19:38",
-		"applyForceOf:" : "jigyasa 4/14/2015 19:35",
-		"initialize" : "jigyasa 4/14/2015 19:31",
-		"mass" : "jigyasa 4/14/2015 19:30",
-		"mass:" : "jigyasa 4/14/2015 19:30",
-		"open" : "jigyasa 4/14/2015 19:28",
-		"reset" : "jigyasa 4/14/2015 19:31",
-		"step" : "jigyasa 4/14/2015 19:43",
-		"stepTime" : "jigyasa 4/14/2015 19:29",
-		"velocity" : "jigyasa 4/14/2015 19:41",
-		"velocity:" : "jigyasa 4/14/2015 19:29" } }
+		"acceleratedBy:" : "jigyasagrover 4/16/2015 14:23",
+		"applyForceOf:" : "jigyasagrover 4/16/2015 14:23",
+		"initialize" : "jigyasagrover 4/16/2015 14:23",
+		"mass" : "jg 4/16/2015 14:46",
+		"mass:" : "jigyasagrover 4/16/2015 14:23",
+		"open" : "jigyasagrover 4/16/2015 14:24",
+		"reset" : "jigyasagrover 4/16/2015 14:24",
+		"step" : "jg 4/16/2015 14:35",
+		"stepTime" : "jigyasagrover 4/16/2015 14:24",
+		"velocity" : "jigyasagrover 4/16/2015 14:25",
+		"velocity:" : "jigyasagrover 4/16/2015 14:25" } }

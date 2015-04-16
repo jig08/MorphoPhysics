@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "jg 4/16/2015 14:49",
 	"instvars" : [
 		"mass",
 		"velocity" ],
