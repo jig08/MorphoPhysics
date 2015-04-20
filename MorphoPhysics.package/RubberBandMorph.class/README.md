@@ -24,6 +24,8 @@ r end2: b.
 
 r connectEnds.
 
+r applyForce.
+
 r open.
 
 " move a , b to see the effect"
