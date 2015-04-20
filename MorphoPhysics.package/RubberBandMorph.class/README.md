@@ -1,20 +1,29 @@
-Please comment me using the following template inspired by Class Responsibility Collaborator (CRC) design:
+Example:
 
-For the Class part:  State the name of the class with one line description: For example, I'm xxx the root of the hierarchy of visitor objects.
+|a b r|
 
-For the Responsibility part: Three sentences about my main responsibility, what I'm doing, what services do I offer.
+a := BallMorph new.
 
-For the Collaborators Part: State my main collaborators and one line about how I interact with them. 
+a center: 200@200.
 
-Public API and Key Messages
+a color: Color red.
 
-- message one   
-- message two 
-- what is the way to create instances is a plus.
-
-   One simple example is simply gorgeous.
- 
-Internal Representation and Key Implementation Points.
+a open.
 
 
-    Implementation Points
+b := BallMorph new.
+
+b open.
+
+
+r := RubberBandMorph new.
+
+r end1: a.
+
+r end2: b.
+
+r connectEnds.
+
+r open.
+
+" move a , b to see the effect"
